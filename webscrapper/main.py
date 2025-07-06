@@ -45,11 +45,22 @@ for anchor in anchor_list:
     for ing in ing_list:
         ingredients.append(ing.text)
     
-    # Obtenemos el health score de la receta
-    info_container = recipe.find("div", attrs={"class": "text-center p-4 bg-[#fffdf6] rounded-lg"})
-    health_score_info = info_container.next_sibling.find("div", attrs= {"class": "text-2xl font-bold text-[#d32f2f] mb-2"})
+    # Obtenemos el health score, el precio por receta el número de likes:
 
-    health_score = health_score_info.text
+    #1. Encontramos que estos 3 containers tienen la clase "text-center p-4 bg-[#fffdf6] rounded-lg" en común. Encontramos todos.
+    info_cards = recipe.find_all("div", attrs={"class": "text-center p-4 bg-[#fffdf6] rounded-lg"})
+    
+    info_in_info_cards = []
+    for info in info_cards:
+        # Dentro de cada card, encontramos el primer div con la clase: "text-2xl font-bold text-[#d32f2f] mb-2"
+        info_in_info_cards.append(info.find("div", attrs={"class": "text-2xl font-bold text-[#d32f2f] mb-2"}).text)
+        
+    # Separamos el texto de cada card en una lista
+    health_score = info_in_info_cards[0]
+    price = info_in_info_cards[1]
+    likes = info_in_info_cards[2]
+
+
 
     # Imprimimos la información de la receta
     # print(f"Title: {title}")
@@ -62,7 +73,10 @@ for anchor in anchor_list:
         "title": title,
         "image": image,
         "ingredients": ingredients,
-        "health_score": health_score
+        "health_score": health_score,
+        "price": price,
+        "likes": likes
+        
     }
     
 output_path = os.path.join(os.path.dirname(__file__), "recipes.json")

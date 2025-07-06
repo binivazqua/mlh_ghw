@@ -14,7 +14,9 @@
             "4 servings salt and pepper",
             "25 grams walnuts"
         ],
-        "health_score": "13/100"
+        "health_score": "$1.32",
+        "price": "13/100",
+        "likes": "2"
     },
     "/recipes/656329": {
         "title": "Pizza bites with pumpkin",
@@ -29,7 +31,9 @@
             "4 Tbs parsley",
             "4 cloves garlic"
         ],
-        "health_score": "17/100"
+        "health_score": "$1.95",
+        "price": "17/100",
+        "likes": "9"
     },
     "/recipes/680975": {
         "title": "BLT Pizza",
@@ -44,7 +48,9 @@
             "1 large tomato",
             "10 pieces turkey bacon"
         ],
-        "health_score": "7/100"
+        "health_score": "$2.81",
+        "price": "7/100",
+        "likes": "0"
     },
     "/recipes/716300": {
         "title": "Plantain Pizza",
@@ -65,7 +71,9 @@
             "0.75 cup water",
             "1.5 teaspoons yeast"
         ],
-        "health_score": "29/100"
+        "health_score": "$1.47",
+        "price": "29/100",
+        "likes": "95"
     },
     "/recipes/665769": {
         "title": "Zucchini Pizza Boats",
@@ -81,7 +89,9 @@
             "6 servings parmesan cheese",
             "6 servings salt and pepper"
         ],
-        "health_score": "17/100"
+        "health_score": "$2.08",
+        "price": "17/100",
+        "likes": "1"
     },
     "/recipes/655698": {
         "title": "Pepperoni Pizza Muffins",
@@ -102,7 +112,9 @@
             "1 cup cheese - ⅔ 150ml",
             "1 ounce pepperoni stick - 2 ½ 70g"
         ],
-        "health_score": "4/100"
+        "health_score": "$0.60",
+        "price": "4/100",
+        "likes": "1"
     },
     "/recipes/641893": {
         "title": "Easy Cheesy Pizza Casserole",
@@ -128,7 +140,9 @@
             "1 serving or",
             "6 servings or"
         ],
-        "health_score": "29/100"
+        "health_score": "$3.95",
+        "price": "29/100",
+        "likes": "181"
     },
     "/recipes/654523": {
         "title": "Paneer & Fig Pizza",
@@ -142,7 +156,9 @@
             "1 cup ricotta cheese",
             "4 servings salt"
         ],
-        "health_score": "3/100"
+        "health_score": "$3.23",
+        "price": "3/100",
+        "likes": "1"
     },
     "/recipes/655847": {
         "title": "Pesto Veggie Pizza",
@@ -168,7 +184,9 @@
             "1.5 oz olives",
             "0.25 cup parmesan"
         ],
-        "health_score": "46/100"
+        "health_score": "$2.62",
+        "price": "46/100",
+        "likes": "1"
     },
     "/recipes/651956": {
         "title": "Mini eggplant pizza",
@@ -181,7 +199,9 @@
             "1 cup cheese",
             "12 slices pepperoni"
         ],
-        "health_score": "2/100"
+        "health_score": "$0.81",
+        "price": "2/100",
+        "likes": "1"
     },
     "/recipes/636593": {
         "title": "Butternut Squash Pizza",
@@ -197,7 +217,9 @@
             "1 cup manchego cheese",
             "1 pound mozzarella cheese"
         ],
-        "health_score": "22/100"
+        "health_score": "$4.76",
+        "price": "22/100",
+        "likes": "2"
     },
     "/recipes/662264": {
         "title": "summer vegetable pizza",
@@ -218,7 +240,9 @@
             "1 cup cherry tomatoes",
             "1 cup basil leaves"
         ],
-        "health_score": "28/100"
+        "health_score": "$4.01",
+        "price": "28/100",
+        "likes": "2"
     },
     "/recipes/661640": {
         "title": "Stilton Balsamic Pizza",
@@ -230,7 +254,9 @@
             "1 large wedge of stilton cheese",
             "0.5 cup virgin olive oil"
         ],
-        "health_score": "0/100"
+        "health_score": "$0.30",
+        "price": "0/100",
+        "likes": "1"
     },
     "/recipes/663553": {
         "title": "Tomato and Bacon Pizza With Rice Crust",
@@ -244,7 +270,9 @@
             "3  tomatoes",
             "6 strips at least of turkey bacon"
         ],
-        "health_score": "10/100"
+        "health_score": "$0.81",
+        "price": "10/100",
+        "likes": "3"
     },
     "/recipes/644953": {
         "title": "Goat Cheese Pesto Pizza",
@@ -255,7 +283,9 @@
             "1 cup tomatoes",
             "1 package goat cheese"
         ],
-        "health_score": "1/100"
+        "health_score": "$2.28",
+        "price": "1/100",
+        "likes": "1"
     },
     "/recipes/642777": {
         "title": "Fig and Goat Cheese Pizza With Pesto",
@@ -266,7 +296,9 @@
             "4 pieces naan bread",
             "1 cup pesto"
         ],
-        "health_score": "1/100"
+        "health_score": "$2.76",
+        "price": "1/100",
+        "likes": "1"
     },
     "/recipes/647124": {
         "title": "Homemade Thin Crust Pizza + Pesto + Potato",
@@ -286,7 +318,9 @@
             "1.5 cup water",
             "2.25 teaspoon yeast"
         ],
-        "health_score": "57/100"
+        "health_score": "$2.00",
+        "price": "57/100",
+        "likes": "1"
     },
     "/recipes/652592": {
         "title": "Multigrain Tandoori Pizza With Paneer Tikka",
@@ -298,7 +332,9 @@
             "2 servings pizza dough",
             "1.5 teaspoons salt"
         ],
-        "health_score": "2/100"
+        "health_score": "$4.05",
+        "price": "2/100",
+        "likes": "1"
     },
     "/recipes/642371": {
         "title": "Elk Italian Sausage Pizza With Ricotta Cheese, Sautéd Mushrooms and Onion",
@@ -317,7 +353,9 @@
             "4 servings parmesan cheese",
             "1 large pizza crust"
         ],
-        "health_score": "39/100"
+        "health_score": "$5.65",
+        "price": "39/100",
+        "likes": "1"
     },
     "/recipes/651624": {
         "title": "Mexican Fiesta Salad Pizza",
@@ -334,7 +372,9 @@
             "1 cup cream",
             "1.25 oz taco seasoning mix"
         ],
-        "health_score": "5/100"
+        "health_score": "$2.35",
+        "price": "5/100",
+        "likes": "1"
     },
     "/recipes/663366": {
         "title": "Thin Crust Genoa Salami Pizza",
@@ -355,7 +395,9 @@
             "1 cup warm water",
             "1 package yeast"
         ],
-        "health_score": "36/100"
+        "health_score": "$1.36",
+        "price": "36/100",
+        "likes": "1"
     },
     "/recipes/655525": {
         "title": "Pecan Pumpkin Pie Dessert Pizza with Maple Whipped Cream",
@@ -370,7 +412,9 @@
             "0.5 cup pumpkin pie filling/mix",
             "0.25 tsp pumpkin pie spice"
         ],
-        "health_score": "3/100"
+        "health_score": "$1.41",
+        "price": "3/100",
+        "likes": "25"
     },
     "/recipes/637054": {
         "title": "Caramelized Onion and Bacon Pizza",
@@ -387,7 +431,9 @@
             "3 tablespoons pesto",
             "2 cups mozzarella cheese"
         ],
-        "health_score": "9/100"
+        "health_score": "$2.32",
+        "price": "9/100",
+        "likes": "1"
     },
     "/recipes/1095810": {
         "title": "Buffalo Mozzarella & Pepperoni Pizza with a Cauliflower Crust",
@@ -406,7 +452,9 @@
             "3.5 oz tomato puree",
             "2 servings herbs"
         ],
-        "health_score": "36/100"
+        "health_score": "$6.39",
+        "price": "36/100",
+        "likes": "1"
     },
     "/recipes/637434": {
         "title": "Chanterelle and Mangalitsa Speck Pizza",
@@ -426,7 +474,9 @@
             "2 tablespoons mangalitsa lard",
             "2 tablespoons mangalitsa lard"
         ],
-        "health_score": "18/100"
+        "health_score": "$7.49",
+        "price": "18/100",
+        "likes": "1"
     },
     "/recipes/1061943": {
         "title": "How to Make the Ultimate Christmas Fruit Pizza",
@@ -440,7 +490,9 @@
             "1 cup butter",
             "0.5 tsp vanilla extract"
         ],
-        "health_score": "2/100"
+        "health_score": "$0.40",
+        "price": "2/100",
+        "likes": "2"
     },
     "/recipes/662605": {
         "title": "Sweet Potato, Sausage and Caramelized Onion Pizza",
@@ -461,7 +513,9 @@
             "1 Dash lemon juice",
             "1.5 cups arugula"
         ],
-        "health_score": "9/100"
+        "health_score": "$1.36",
+        "price": "9/100",
+        "likes": "1"
     },
     "/recipes/645020": {
         "title": "Golden Potato and Caramelized Onion Flat Bread Pizza",
@@ -474,7 +528,9 @@
             "1 teaspoon salt",
             "2  yukon gold potatoes"
         ],
-        "health_score": "8/100"
+        "health_score": "$0.78",
+        "price": "8/100",
+        "likes": "1"
     },
     "/recipes/1096319": {
         "title": "Mini Vegetarian Puff Pastry Pizzas",
@@ -491,7 +547,9 @@
             "12 servings olives",
             "12 servings chili peppers"
         ],
-        "health_score": "13/100"
+        "health_score": "$1.93",
+        "price": "13/100",
+        "likes": "1"
     },
     "/recipes/656323": {
         "title": "Pita Pizzas with Sautéed Apples and Bacon",
@@ -512,7 +570,9 @@
             "1 tablespoon butter",
             "1 cloves of"
         ],
-        "health_score": "5/100"
+        "health_score": "$2.17",
+        "price": "5/100",
+        "likes": "1"
     },
     "/recipes/632771": {
         "title": "Artichoke, Kalamata, & Sun-Dried Tomato Mini-Pizzas With Garlic and Rosemary",
@@ -527,6 +587,8 @@
             "4 servings sea salt",
             "1 tablespoon marinated sun-dried tomatoes"
         ],
-        "health_score": "0/100"
+        "health_score": "$0.42",
+        "price": "0/100",
+        "likes": "1"
     }
 }
